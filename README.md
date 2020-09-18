@@ -6,13 +6,16 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 # Related Links
 
-* [**BP 2020**](https://nastaraan.github.io/test2/)
 * [**Google Drive**](https://nastaraan.github.io/test2/)
-* [**CW**](https://nastaraan.github.io/test2/)
+* [**Courseware**](https://nastaraan.github.io/test2/)
 * [**Quera**](https://nastaraan.github.io/test2/)
 
 
-# Time
+# Class Time and Location:
+Sunday and Tuesday 10:30-12:00 AM 
+Wednesday 1:00-3:00 PM
+
+The class is held virtually. To access the link to the class, please refer to * [**Courseware**](https://nastaraan.github.io/test2/).
 
 ## Welcome to GitHub Pages
 
