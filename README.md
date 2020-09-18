@@ -1,8 +1,11 @@
-# Basics of Programming
+# Basics of Programming 
+Department of Mathematical Sciences at Sharif University of Technology
 * [**BP 2020**](https://nastaraan.github.io/test2/)
-* [**google drive**](https://nastaraan.github.io/test2/)
-* [**cw**](https://nastaraan.github.io/test2/)
-* [**quera**](https://nastaraan.github.io/test2/)
+* [**Google Drive**](https://nastaraan.github.io/test2/)
+* [**CW**](https://nastaraan.github.io/test2/)
+* [**Quera**](https://nastaraan.github.io/test2/)
+
+# Time
 
 ## Welcome to GitHub Pages
 
