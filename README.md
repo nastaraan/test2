@@ -1,11 +1,13 @@
 # Basics of Programming 
-Department of Mathematical Sciences at Sharif University of Technology
+Department of Mathematical Sciences at Sharif University of Technology          <td><img src=".\Images\SUT.png" alt="" border='3' height='140' width='120' /></td>
+
+
 * [**BP 2020**](https://nastaraan.github.io/test2/)
 * [**Google Drive**](https://nastaraan.github.io/test2/)
 * [**CW**](https://nastaraan.github.io/test2/)
 * [**Quera**](https://nastaraan.github.io/test2/)
 
-<td><img src=".\Images\SUT.png" alt="" border='3' height='140' width='120' /></td>
+
 
 # Time
 
