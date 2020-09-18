@@ -2,15 +2,14 @@
 
 # Basics of Programming 
 Department of Mathematical Sciences at Sharif University of Technology          
-<center><img src=".\Images\SUT.png" alt="" border='3' height='160' width='160' /></center>
+<center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
-
+# Related Links
 
 * [**BP 2020**](https://nastaraan.github.io/test2/)
 * [**Google Drive**](https://nastaraan.github.io/test2/)
 * [**CW**](https://nastaraan.github.io/test2/)
 * [**Quera**](https://nastaraan.github.io/test2/)
-
 
 
 # Time
