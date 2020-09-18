@@ -13,9 +13,9 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 # Class Time and Location:
 Sunday and Tuesday 10:30-12:00 AM 
-Wednesday 1:00-3:00 PM
+* Wednesday 1:00-3:00 PM
 
-The class is held virtually. To access the link to the class, please refer to * [**Courseware**](https://nastaraan.github.io/test2/).
+The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
 
 ## Welcome to GitHub Pages
 
