@@ -1,8 +1,8 @@
-<img src=".\Images\SUT.png" alt="" border='3' height='140' width='140' />
+
 
 # Basics of Programming 
 Department of Mathematical Sciences at Sharif University of Technology          
-
+<center><img src=".\Images\SUT.png" alt="" border='3' height='180' width='180' /></center>
 
 
 
