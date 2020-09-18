@@ -1,7 +1,9 @@
+<img src=".\Images\SUT.png" alt="" border='3' height='140' width='140' />
+
 # Basics of Programming 
 Department of Mathematical Sciences at Sharif University of Technology          
 
-<td><img src=".\Images\SUT.png" alt="" border='3' height='140' width='140' /></td>
+
 
 
 * [**BP 2020**](https://nastaraan.github.io/test2/)
