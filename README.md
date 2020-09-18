@@ -1,8 +1,8 @@
 # Basics of Programming
 * [**BP 2020**](https://nastaraan.github.io/test2/)
-* [**google drive =**]
-* [**cw**]
-* [**quera**]
+* [**google drive**](https://nastaraan.github.io/test2/)
+* [**cw**](https://nastaraan.github.io/test2/)
+* [**quera**](https://nastaraan.github.io/test2/)
 
 ## Welcome to GitHub Pages
 
