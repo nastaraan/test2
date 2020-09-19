@@ -19,8 +19,8 @@ Department of Mathematical Sciences at Sharif University of Technology
   <tr>
     <th colspan="2"><center><span style="font-weight:bold">Teaching Assistants</span></th>
     <th colspan="3"><a href="https://nastaraan.github.io/test2/">A</a></th>
-    <br><th colspan="3"><a href="https://nastaraan.github.io/test2/">A</a></th>
-    <br><th colspan="3"><a href="https://nastaraan.github.io/test2/">B</a></th>
+    <br><br><th colspan="3"><a href="https://nastaraan.github.io/test2/">A</a></th>
+    <br><br><th colspan="3"><a href="https://nastaraan.github.io/test2/">B</a></th>
   </tr>
 </table>
 
