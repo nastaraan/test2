@@ -18,16 +18,16 @@ Department of Mathematical Sciences at Sharif University of Technology
     <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+  </tr>
+   <tr>
     <td><a href="">A</a></td>
     <td><a href="">B</a></td>
     <td><a href="">C</a></td>
     <td><a href="">D</a></td>
-  </tr>
-  <tr>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
-    <td><img src="" alt="" border='3' height='120' width='120' /></td>
   </tr>
 </table>
 
