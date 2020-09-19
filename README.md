@@ -20,6 +20,8 @@ h
     <td><center><a href="https://nastaraan.github.io/test2/">S O</a><br>description</center></td> 
   </tr>
   <tr>
+  </tr>
+  <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
     <td><center><a href="https://nastaraan.github.io/test2/">A</a><br><a href="https://nastaraan.github.io/test2/">B</a><br><a href="https://nastaraan.github.io/test2/">C</a>       </center></td>
   </tr> 
