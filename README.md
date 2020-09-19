@@ -5,7 +5,7 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-hh
+hhh
 
 # Presentation Team
 
@@ -45,7 +45,7 @@ hh
     <td><img src="" alt="" border='3' height='120' width='120' /></td>
   </tr>
    <tr>
-    <td><center><a href="">A</a></center></td>
+    <td><center><a align="center" href="">A</a></center></td>
     <td><center><a href="">B</a></center></td>
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
