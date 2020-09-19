@@ -45,7 +45,7 @@ hhh
     <td><img src="" alt="" border='3' height='120' width='120' /></td>
   </tr>
    <tr>
-    <td><center><a align="center" href="">A</a></center></td>
+    <td><center><p align="center"><a href="">A</a><p align="center"></p></center></td>
     <td><center><a href="">B</a></center></td>
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
