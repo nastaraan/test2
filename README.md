@@ -5,7 +5,7 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-hhh
+hh
 
 # Presentation Team
 
@@ -16,7 +16,7 @@ hhh
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></td>
-    <td><center><span style="font-weight:bold">A<br><br>B<br><br>C</span></td>
+    <td><center><span style="font-weight:bold">A<br><br>B<br><br>C<br><br></span></td>
   </tr>
 </table>
 ---
