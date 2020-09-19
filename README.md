@@ -12,7 +12,6 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 | git diff | Show file differences that haven't been staged |
 
-
 # Related Links
 
 * [**Google Drive**](https://nastaraan.github.io/test2/)
