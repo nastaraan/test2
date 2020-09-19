@@ -5,7 +5,7 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-h
+hh
 
 # Presentation Team
 <html>
@@ -26,7 +26,7 @@ table, th, td {
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
-    <td><center><a href="https://nastaraan.github.io/test2/">A</a><br><a href="https://nastaraan.github.io/test2/">B</a><br><a href="https://nastaraan.github.io/test2/">C</a</span></center></td>
+    <td><center><a href="https://nastaraan.github.io/test2/">A</a><br><a href="https://nastaraan.github.io/test2/">B</a><br><a href="https://nastaraan.github.io/test2/">C</a></span></center></td>
   </tr> 
 </table>
 
