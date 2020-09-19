@@ -8,8 +8,8 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 <table>
   <tr>
-    <td colspan="2"><center><span style="font-weight:bold">Lecturer</span></center></td>
-    <td colspan="3"><center><a href="https://nastaraan.github.io/test2/">S O</a><center></td>
+    <td><center><span style="font-weight:bold">Lecturer</span></center></td>
+    <td><center><a href="https://nastaraan.github.io/test2/">S O</a><center></td>
   </tr>
       
   <tr>
