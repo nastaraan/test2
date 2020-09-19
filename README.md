@@ -16,7 +16,7 @@ hh
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></td>
-    <td><center><span style="font-weight:bold">A<br><br>B<br><br>C<br><br></span></td>
+    <td><center><span style="font-weight:bold">A<br><br>B<br><br>C<br><br></span><center></td>
   </tr>
 </table>
 ---
