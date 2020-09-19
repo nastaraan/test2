@@ -28,12 +28,13 @@ h
 </table>
 
 <table>
-  <p align="center">
   <tr>
     <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
   </tr>
   <tr>
-    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
+    <p align="center">
+     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
+    </p>
   </tr>
   <tr>
     <td colspan="2"><center><img src="" alt="" border='3' height='140' width='140' /></center></td>
