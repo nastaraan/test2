@@ -12,9 +12,9 @@ Department of Mathematical Sciences at Sharif University of Technology
 | git diff | Show file differences that haven't been staged |
 
 <table>
-  <tr>
-    <th colspan="2"><center><span style="font-weight:bold">Lecturer</span></th>
-    <th colspan="3"><a href="https://nastaraan.github.io/test2/">S O</a></th>
+   <tr>
+    <td><center><span style="font-weight:bold">Lecturer</span></td>
+    <td><a href="https://nastaraan.github.io/test2/">S O</a></td>
   </tr>
   <tr>
     <th colspan="2"><center><span style="font-weight:bold">Teaching Assistants</span></th>
