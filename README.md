@@ -8,11 +8,14 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 <table>
   <tr>
+    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
+  </tr>
+  <tr>
     <th colspan="2"><span style="font-weight:bold">Lecturer: <br></span><a href="https://nastaraan.github.io/test2/">S O</a></th>
     <th colspan="3"><img src="" alt="" border='3' height='140' width='140' /></th>
   </tr>
   <tr>
-    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants:</span></center></td>
+    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
   </tr>
   <tr>
     <td><a href="">A</a></td>
