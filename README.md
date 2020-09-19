@@ -5,15 +5,17 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-hhh
+hhhh
 
 # Presentation Team
 
 <table>
   <tr>
+    <td colspan="5"><center><span></span></center></td>
+  </tr>
+  <tr>
     <td><center><span style="font-weight:bold">Lecturer</span></center></td>
-    <td><center><a href="https://nastaraan.github.io/test2/">S O</a><br>description</center></td>
-    
+    <td><center><a href="https://nastaraan.github.io/test2/">S O</a><br>description</center></td> 
   </tr>
    <tr>
   </tr>
@@ -50,7 +52,7 @@ hhh
     <td><center><a href="">D</a></center></td>
   </tr>
 </table>
----
+
 
 
 # Related Links
@@ -64,6 +66,8 @@ hhh
 Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
 
 The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
+
+---
 
 ## Welcome to GitHub Pages
 
