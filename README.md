@@ -15,11 +15,11 @@ Department of Mathematical Sciences at Sharif University of Technology
     <td colspan="5"><span style="font-weight:bold">Teaching Assistants:</span></td>
   </tr>
   <tr>
-    <td><a href="">Behnaz H.M. Hoseyni</a></td>
-    <td><a href="">Yavar T. Yeganeh</a></td>
-    <td><a href="">Erfaan Rostami Amraei</a></td>
-    <td><a href="">Mostafa Khodayari</a></td>
-    <td><a href="">Esmail Mafakheri</a></td>
+    <td><a href="">A</a></td>
+    <td><a href="">B</a></td>
+    <td><a href="">C</a></td>
+    <td><a href="">D</a></td>
+    <td><a href="">E</a></td>
   </tr>
   <tr>
     <td><img src="" alt="" border='3' height='140' width='120' /></td>
