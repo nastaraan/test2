@@ -5,7 +5,7 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-h
+hi
 
 # Presentation Team
 
@@ -32,7 +32,7 @@ h
     <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
   </tr>
   <tr>
-    <td colspan="5"><p align="center"><span style="font-weight:bold">Lecturer</span></p></td>
+    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
   </tr>
   <tr>
     <td colspan="2"><center><img src="" alt="" border='3' height='140' width='140' /></center></td>
@@ -50,8 +50,8 @@ h
   <tr>
   </tr>
    <tr>
-    <td><a href="">A</a></td>
-     <td><center><a href="">B</a></center></td>
+    <td><center><a href="">A</a></center></td>
+    <td><center><a href="">B</a></center></td>
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
   </tr>
