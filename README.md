@@ -6,11 +6,6 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 # Presentation Team
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 <table>
    <tr>
     <td><center><span style="font-weight:bold">Lecturer</span></td>
@@ -21,7 +16,7 @@ Department of Mathematical Sciences at Sharif University of Technology
     <td><center><span style="font-weight:bold">A<br>B<br>C</span></td>
   </tr>
 </table>
-
+---
 <table>
   <tr>
     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
@@ -46,6 +41,7 @@ Department of Mathematical Sciences at Sharif University of Technology
     <td><center><a href="">D</a></center></td>
   </tr>
 </table>
+---
 
 
 # Related Links
