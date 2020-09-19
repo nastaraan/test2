@@ -13,7 +13,7 @@ Department of Mathematical Sciences at Sharif University of Technology
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></td>
-    <td><center><span style="font-weight:bold">A<br>B<br>C</span></td>
+    <td><center><span style="font-weight:bold">A<br><br>B<br><br>C</span></td>
   </tr>
 </table>
 ---
