@@ -8,7 +8,7 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 <table>
   <tr>
-    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="https://nastaraan.github.io/test2/">S O</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="https://nastaraan.github.io/test2/">S O</a></th>
     <th colspan="3"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
   </tr>
   <tr>
