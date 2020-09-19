@@ -5,21 +5,23 @@ Department of Mathematical Sciences at Sharif University of Technology
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # ddddddd
-h
+hh
 
 # Presentation Team
-
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
 }
 </style>
 </head>
 <body>
 
-<h2>Table With Border</h2>
-
-<p>Use the CSS border property to add a border to the table.</p>
+<h2>Collapsed Borders</h2>
+<p>If you want the borders to collapse into one border, add the CSS border-collapse property.</p>
 
 <table style="width:100%">
   <tr>
@@ -46,7 +48,6 @@ table, th, td {
 
 </body>
 </html>
-
 
 <table>
   <tr>
