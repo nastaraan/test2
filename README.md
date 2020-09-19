@@ -6,6 +6,8 @@ Department of Mathematical Sciences at Sharif University of Technology
 
 # Presentation Team
 
+| Command | Description |
+| --- | --- |
 | git status | List all new or modified files |
 
 | git diff | Show file differences that haven't been staged |
