@@ -32,9 +32,7 @@ h
     <td colspan="5"><center><span style="font-weight:bold"></span></center></td>
   </tr>
   <tr>
-    <p align="center">
-     <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
-    </p>
+    <td colspan="5"><p align="center"><span style="font-weight:bold">Lecturer</span></p></td>
   </tr>
   <tr>
     <td colspan="2"><center><img src="" alt="" border='3' height='140' width='140' /></center></td>
@@ -57,7 +55,6 @@ h
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
   </tr>
-  </p>
 </table>
 
 
