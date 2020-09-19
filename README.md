@@ -51,7 +51,7 @@ h
   </tr>
    <tr>
     <td><p align="center"><a href="">A</a></p></td>
-    <td><center><a href="">B</a></center></td>
+     <td><div style="text-align:center"><center><a href="">B</a></center></div></td>
     <td><center><a href="">C</a></center></td>
     <td><center><a href="">D</a></center></td>
   </tr>
