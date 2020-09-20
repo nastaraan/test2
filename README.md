@@ -71,6 +71,10 @@ Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
 
 The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
 
+# Course Description
+```markdown
+In this course,...
+```
 ---
 
 ## Welcome to GitHub Pages
