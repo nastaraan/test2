@@ -103,9 +103,8 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 
 # References
-<a href="https://nastaraan.github.io/test2/">javacup</a>
-
-and ...
+* <a href="https://nastaraan.github.io/test2/">javacup</a>
+* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
 
 
 # Grading
