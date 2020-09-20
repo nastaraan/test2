@@ -65,7 +65,10 @@ table2
 </table>
 
 # Lectures
+
+```markdown
 * Lecture 1: Introduction
+```
 <br>[**Class Video**](https://nastaraan.github.io/test2/) [**Slide**](https://nastaraan.github.io/test2/) 
 <br>References:
 <br>[**ref1**](https://nastaraan.github.io/test2/)
