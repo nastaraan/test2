@@ -79,12 +79,26 @@ In this course,...
 # References:
 <a href="https://nastaraan.github.io/test2/">javacup</a>
 and ...
----
+
 
 # Grading
-* Homework – ?%
+* **Homework** – ?%
+```markdown
+Information
+```
 * Project – ?%
+```markdown
+Information
+```
 * Final exam - ?%
+```markdown
+Information
+```
+
+# Contact
+If you have any questions, please send and email to...
+
+---
 
 ## Welcome to GitHub Pages
 
