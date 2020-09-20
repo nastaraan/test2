@@ -4,8 +4,10 @@
 Department of Mathematical Sciences at Sharif University of Technology          
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
-# ddddddd
-hiii
+# Course Description
+
+In this course,...
+
 
 # Presentation Team
 
@@ -67,14 +69,14 @@ hiii
 
 
 # Class Time and Location
-Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
+* Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
+* The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
 
-The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
+# TA Class Time and Location
+Classes will help you to answer weekly homeworks that have no grades. 
+* A
+* B
 
-# Course Description
-```markdown
-In this course,...
-```
 
 # References
 <a href="https://nastaraan.github.io/test2/">javacup</a>
