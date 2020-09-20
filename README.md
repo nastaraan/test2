@@ -67,20 +67,21 @@ table2
 # Lectures
 
 ```markdown
-Lecture 1: Introduction
+Lecture 1: Introduction 
+<br> Sunday 1399/8/18
 ```
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
 * **References:**
-** [tutorial point](https://nastaraan.github.io/test2/)
+<br> [tutorial point](https://nastaraan.github.io/test2/)
 
 ```markdown
 Lecture 2: ?
 ```
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
-<br> References:
-* [**tutorial point**](https://nastaraan.github.io/test2/)
+* **References:**
+<br> [tutorial point](https://nastaraan.github.io/test2/)
 
 
 # Related Links
@@ -107,19 +108,21 @@ and ...
 
 
 # Grading
-* **Homework** – ?%
+
+* [**Assignments**](https://nastaraan.github.io/test2/#assignments) – ?%
 ```markdown
 Information
 ```
-* **Project** – ?%
+* [**Project**](https://nastaraan.github.io/test2/#project) – ?%
 ```markdown
 Information
 ```
-* **Final exam** - ?%
+* [**Final Exam**](https://nastaraan.github.io/test2/#final-exam) – ?%
 ```markdown
 Information
 ```
-* There will be also weekly homeworks with no grage, but we strongly advise you to do them and ask your questions...
+* There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions. 
+[**Here**](https://nastaraan.github.io/test2/#assignments)
 
 # Contact
 If you have any questions, please send and email to...
