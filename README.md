@@ -130,7 +130,7 @@ To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-
 
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
-More information including subjects and solution will be published later.
+<br>More information including subjects and solution will be published later.
 
 # Warm-up Questions
 
