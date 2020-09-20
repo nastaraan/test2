@@ -66,7 +66,7 @@ table2
 
 # Lectures
 
-## 1
+## Lecture 1
 
 # Related Links
 
