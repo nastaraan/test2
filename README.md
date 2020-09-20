@@ -66,9 +66,9 @@ table2
 
 # Lectures
 * Lecture 1: Introduction
-[**Class Video**](https://nastaraan.github.io/test2/)
-[**Slide**](https://nastaraan.github.io/test2/)
-[**Reference**](https://nastaraan.github.io/test2/)
+<br>[**Class Video**](https://nastaraan.github.io/test2/) [**Slide**](https://nastaraan.github.io/test2/) 
+<br>References:
+<br>[**ref1**](https://nastaraan.github.io/test2/)
 
 * Lecture 2: ...
 
