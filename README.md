@@ -67,13 +67,21 @@ table2
 # Lectures
 
 ```markdown
-* Lecture 1: Introduction
+Lecture 1: Introduction
 ```
-<br>[**Class Video**](https://nastaraan.github.io/test2/) [**Slide**](https://nastaraan.github.io/test2/) 
-<br>References:
-<br>[**ref1**](https://nastaraan.github.io/test2/)
+* [**Class Video**](https://nastaraan.github.io/test2/) 
+* [**Slide**](https://nastaraan.github.io/test2/) 
+* References:
+<br>[**tutorial point**](https://nastaraan.github.io/test2/)
 
-* Lecture 2: ...
+```markdown
+Lecture 2: ?
+```
+* [**Class Video**](https://nastaraan.github.io/test2/) 
+* [**Slide**](https://nastaraan.github.io/test2/) 
+<br> References:
+* [**tutorial point**](https://nastaraan.github.io/test2/)
+
 
 # Related Links
 
