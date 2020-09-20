@@ -73,7 +73,7 @@ Sunday 1399/8/18
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
 * **References:**
-<br> [tutorial point](https://nastaraan.github.io/test2/)
+  * [tutorial point](https://nastaraan.github.io/test2/)
 
 ```markdown
 Lecture 2: ?
@@ -112,6 +112,7 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 * [**Assignments**](https://nastaraan.github.io/test2/#assignments) – ?%
 ```markdown
 Information
+like the rules and honesty and what will happen if they cheat.
 ```
 * [**Project**](https://nastaraan.github.io/test2/#project) – ?%
 ```markdown
