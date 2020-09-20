@@ -73,13 +73,14 @@ In this course,...
 * The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
 
 # TA Class Time and Location
-Classes will help you to answer weekly homeworks that have no grades. 
+Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
 * A
 * B
 
 
 # References
 <a href="https://nastaraan.github.io/test2/">javacup</a>
+
 and ...
 
 
