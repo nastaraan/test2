@@ -70,18 +70,18 @@ table2
 Lecture 1: Introduction 
 Sunday 1399/8/18
 ```
-* [**Class Video**](https://nastaraan.github.io/test2/) 
-* [**Slide**](https://nastaraan.github.io/test2/) 
-* **References:**
+* [Class Video](https://nastaraan.github.io/test2/) 
+* [Slide](https://nastaraan.github.io/test2/) 
+* References:
   * [tutorial point](https://nastaraan.github.io/test2/)
 
 ```markdown
 Lecture 2: ?
 Tuesday 1399/8/20
 ```
-* [**Class Video**](https://nastaraan.github.io/test2/) 
-* [**Slide**](https://nastaraan.github.io/test2/) 
-* **References:**
+* [Class Video](https://nastaraan.github.io/test2/) 
+* [Slide](https://nastaraan.github.io/test2/) 
+* References:
   * [tutorial point](https://nastaraan.github.io/test2/)
 
 
@@ -101,7 +101,7 @@ Tuesday 1399/8/20
     * A
     * B
     
-To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br>To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
@@ -113,7 +113,7 @@ To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-
     * A
     * B
   
-To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
 <br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
@@ -124,7 +124,7 @@ To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-
     * A
     * B
     
-To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Project), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Project), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
 <br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
@@ -140,7 +140,7 @@ Sunday 1399/11/05, 9:00 AM
     * A
     * B
   
-To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
@@ -150,7 +150,7 @@ To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-
     * A
     * B
   
-To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
