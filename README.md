@@ -68,7 +68,7 @@ table2
 
 ```markdown
 Lecture 1: Introduction 
-<br> Sunday 1399/8/18
+Sunday 1399/8/18
 ```
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
@@ -77,6 +77,7 @@ Lecture 1: Introduction
 
 ```markdown
 Lecture 2: ?
+Tuesday 1399/8/20
 ```
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
