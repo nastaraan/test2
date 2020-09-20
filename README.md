@@ -76,7 +76,7 @@ The class is being held virtually. To access the link to the class, please refer
 In this course,...
 ```
 
-# References:
+# References
 <a href="https://nastaraan.github.io/test2/">javacup</a>
 and ...
 
@@ -86,14 +86,15 @@ and ...
 ```markdown
 Information
 ```
-* Project – ?%
+* **Project** – ?%
 ```markdown
 Information
 ```
-* Final exam - ?%
+* **Final exam** - ?%
 ```markdown
 Information
 ```
+* There will be also weekly homeworks with no grage, but we strongly advise you to do them and ask your questions...
 
 # Contact
 If you have any questions, please send and email to...
