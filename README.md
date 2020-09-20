@@ -95,11 +95,14 @@ Tuesday 1399/8/20
 * **HW1**
   * Release: ?day 1399/11/?, ?:00  
   * Deadline: ?day 1399/11/?, ?:00 
-  * Designers: A, B, C, ...
-
+  * Designers: 
+    * A
+    * B
+    
 To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
 <br>To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
+
 
 * **HW2**
   * Release: ?day 1399/11/?, ?:00  
@@ -113,13 +116,40 @@ To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-
 <br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 # Project
+* Release: ?day 1399/11/?, ?:00  
+  * Deadline: ?day 1399/11/?, ?:00 
+  * Designers: 
+    * A
+    * B
+    
+  To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Project), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
+<br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
 More information including subjects and solution will be published later.
 
 # Warm-up Questions
-[**Week1**](https://nastaraan.github.io/test2/)
+
+* **Week1**
+  * Release: ?day 1399/11/?, ?:00  
+  * Designers: 
+    * A
+    * B
+  
+To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
+
+
+* **Week2**
+  * Release: ?day 1399/11/?, ?:00  
+  * Designers: 
+    * A
+    * B
+  
+To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
 # Class Time and Location
