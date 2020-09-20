@@ -91,6 +91,7 @@ Tuesday 1399/8/20
 * [**Courseware**](https://nastaraan.github.io/test2/)
 * [**Quera**](https://nastaraan.github.io/test2/)
 
+# Assignments
 
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
@@ -109,6 +110,7 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 # Grading
 
+* [**Assignments**](#assignments)
 * [**Assignments**](https://nastaraan.github.io/test2/#assignments) – ?%
 ```markdown
 Information
