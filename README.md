@@ -71,8 +71,8 @@ Lecture 1: Introduction
 ```
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
-* References:
-<br>[**tutorial point**](https://nastaraan.github.io/test2/)
+* **References:**
+** [tutorial point](https://nastaraan.github.io/test2/)
 
 ```markdown
 Lecture 2: ?
