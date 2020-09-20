@@ -82,7 +82,7 @@ Tuesday 1399/8/20
 * [**Class Video**](https://nastaraan.github.io/test2/) 
 * [**Slide**](https://nastaraan.github.io/test2/) 
 * **References:**
-<br> [tutorial point](https://nastaraan.github.io/test2/)
+  * [tutorial point](https://nastaraan.github.io/test2/)
 
 
 # Related Links
@@ -96,17 +96,17 @@ Tuesday 1399/8/20
   * Release: ?day 1399/11/?, ?:00  
   * Deadline: ?day 1399/11/?, ?:00  
 
-To receive, please refer to [**Github**](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [**Google Drive**](https://nastaraan.github.io/test2/), [**CW**](https://nastaraan.github.io/test2/), or [**Quera**](https://nastaraan.github.io/test2/).
-<br>To ask your questions about this homework, please refer to [**Quera**](https://nastaraan.github.io/test2/).
-<br>To upload, please refer to [**Quera**](https://nastaraan.github.io/test2/).
+To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+<br>To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
+<br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 * **HW2**
   * Release: ?day 1399/11/?, ?:00  
   * Deadline: ?day 1399/11/?, ?:00 
   
-To receive, please refer to [**Github**](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW2), [**Google Drive**](https://nastaraan.github.io/test2/), [**CW**](https://nastaraan.github.io/test2/), or [**Quera**](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [**Quera**](https://nastaraan.github.io/test2/).
-<br> To upload, please refer to [**Quera**](https://nastaraan.github.io/test2/).
+To receive, please refer to [Github](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
+<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
+<br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 # Project
 
