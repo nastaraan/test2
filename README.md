@@ -90,7 +90,7 @@ Tuesday 1399/8/20
 * [**Google Drive**](https://nastaraan.github.io/test2/)
 * [**Courseware**](https://nastaraan.github.io/test2/)
 * [**Quera**](https://nastaraan.github.io/test2/)
-* [**Github**](https://github.com/nastaraan/test2)
+* [**GitHub**](https://github.com/nastaraan/test2)
 
 
 # Assignments
