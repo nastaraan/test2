@@ -1,1 +1,1 @@
-Copy and Paste Practice information here.
+Copy and Paste Assignments Information here.
