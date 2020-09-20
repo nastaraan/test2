@@ -65,8 +65,12 @@ table2
 </table>
 
 # Lectures
+* Lecture 1: Introduction
+[**Class Video**](https://nastaraan.github.io/test2/)
+[**Slide**](https://nastaraan.github.io/test2/)
+[**Reference**](https://nastaraan.github.io/test2/)
 
-## Lecture 1
+* Lecture 2: ...
 
 # Related Links
 
@@ -79,7 +83,7 @@ table2
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
 <br>The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
 
-# TA Class Time and Location
+# TA Classes
 Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
 * A
 * B
