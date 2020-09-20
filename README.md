@@ -93,6 +93,16 @@ Tuesday 1399/8/20
 
 # Assignments
 
+# Project
+
+# Final Exam
+Sunday 1399/11/05, 9:00 AM
+More information including subjects and solution will be published later.
+
+# Warm-up Questions
+[**Week1**](https://nastaraan.github.io/test2/)
+
+
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
 <br>The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
@@ -110,19 +120,19 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 # Grading
 
-* [**Assignments**](#assignments)
-* [**Assignments**](https://nastaraan.github.io/test2/#assignments) – ?%
+* [**Assignments**](#assignments) – ?%
 ```markdown
 Information
 like the rules and honesty and what will happen if they cheat.
 ```
-* [**Project**](https://nastaraan.github.io/test2/#project) – ?%
+* [**Project**](#project) – ?%
 ```markdown
 Information
 ```
-* [**Final Exam**](https://nastaraan.github.io/test2/#final-exam) – ?%
+* [**Final Exam**](#final-exam) – ?%
 ```markdown
-Information
+Information 
+More information will be published later. 
 ```
 * There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions. 
 [**Here**](https://nastaraan.github.io/test2/#assignments)
